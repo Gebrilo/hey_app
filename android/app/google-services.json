@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "328302147752",
+    "firebase_url": "https://heyapp-eaf35.firebaseio.com",
+    "project_id": "heyapp-eaf35",
+    "storage_bucket": "heyapp-eaf35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328302147752:android:99af169d568fbea0f5ea9d",
+        "android_client_info": {
+          "package_name": "com.example.hey_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328302147752-5j4fan4lbb8f4v8c9a9ljmkusq1u4aus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb8qWZOdYBPhtoAlHBghygwFkBh95nIIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328302147752-5j4fan4lbb8f4v8c9a9ljmkusq1u4aus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
